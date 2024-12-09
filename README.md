@@ -17,4 +17,6 @@ Contém os códigos utilizados para construir os modelos de previsão.
 - ### relatório-sintético.pdf
 Um resumo dos resultados obtidos, abordando os principais insights, metodologias aplicadas e desempenho dos modelos.
 
+# 
+
 # ![image](https://github.com/user-attachments/assets/456a0812-35e3-406b-850c-20d8b6cc1f20)
