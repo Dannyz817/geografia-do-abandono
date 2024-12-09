@@ -7,7 +7,6 @@ Este repositório contém o desenvolvimento de um projeto voltado à previsão d
 Realizar um estudo sobre a relação entre as mesorregiões do estado de São Paulo e os índices de evasão escolar, classificando-os em níveis de baixa, média ou alta evasão, para entender como fatores regionais e a pandemia de COVID-19 impactaram o abandono escolar.
 
 ## Estrutura do Repositório
-Abaixo está a estrutura principal do repositório:
 - ### base-de-dados/
 Arquivo csv pronto para análises
 - ### tratamento-dos-dados/
